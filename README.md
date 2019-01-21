@@ -1,5 +1,12 @@
 
-# Data Science and Big Data with Python
+# LaunchCode CoderGirl
+
+* [Introduction to Python](http://nbviewer.jupyter.org/github/rlowd/python-bigdata/blob/master/src/main/ipynb/intro-python.ipynb)
+
+
+## _This repo was cloned from [Steve Phelps](http://sphelps.net)_ whose original README is below
+
+### Data Science and Big Data with Python
 
 (C) 2016 [Steve Phelps](http://sphelps.net)
 
