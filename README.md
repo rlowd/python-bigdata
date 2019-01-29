@@ -4,7 +4,7 @@
 * [Introduction to Python part 1](http://nbviewer.jupyter.org/github/rlowd/python-bigdata/blob/master/src/main/ipynb/intro-python.ipynb)
     - [scrubbed notebook](http://nbviewer.jupyter.org/github/rlowd/python-bigdata/blob/master/src/main/ipynb/intro-python-scrubbed.ipynb)
 * [Introduction to Python part 2](http://nbviewer.jupyter.org/github/rlowd/python-bigdata/blob/master/src/main/ipynb/intro-python-2.ipynb)
-    - scrubbed notebook
+    - [scrubbed notebook](https://github.com/rlowd/python-bigdata/blob/master/src/main/ipynb/intro-python-2-scrubbed.ipynb)
 
 
 ## _This repo was cloned from [Steve Phelps](http://sphelps.net)_ whose original README is below
