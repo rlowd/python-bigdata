@@ -5,8 +5,12 @@
     - [scrubbed notebook](http://nbviewer.jupyter.org/github/rlowd/python-bigdata/blob/master/src/main/ipynb/intro-python-scrubbed.ipynb)
 * [Introduction to Python part 2](http://nbviewer.jupyter.org/github/rlowd/python-bigdata/blob/master/src/main/ipynb/intro-python-2.ipynb)
     - [scrubbed notebook](https://github.com/rlowd/python-bigdata/blob/master/src/main/ipynb/intro-python-2-scrubbed.ipynb)
+* [Numpy]()
+    - [scrubbed notebook]
+* Introduction to Pandas
+* Exploratory analysis with Pandas
 
-
+# Sources
 ## _This repo was cloned from [Steve Phelps](http://sphelps.net)_ whose original README is below
 
 ### Data Science and Big Data with Python
@@ -27,3 +31,5 @@ This can be imported as a virtual appliance using [VirtualBox](https://www.virtu
 
 This work is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license agreement.
 
+## Additional resources
+* Some notebooks also taken from (rossant/ipython-minibook)[https://github.com/rossant/ipython-minibook]
